@@ -97,7 +97,7 @@ This code listens for the click events on the "Apply Now" and "Back" buttons to 
    cd DAY_016
    ```
 
-3. **Open the `index.html` file** in your web browser\*\*:
+3. **Open the `index.html` file** in your web browser:
 
    - You can double-click the file in your file explorer, or
    - Serve it using a local development server (e.g., Live Server in VSCode).
