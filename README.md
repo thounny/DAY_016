@@ -1,5 +1,3 @@
-# DAY_016
-
 # DAY_016 | Contact Us Page with GSAP and Modal Popup
 
 This project is part of my daily code challenge series, **DAY_016**, where I focus on building a **Contact Us page** featuring a **CSS form design** and a **JavaScript modal popup** triggered by a button click. The project uses **GSAP (GreenSock Animation Platform)** to add animations and smooth transitions to the modal and page elements.
@@ -18,7 +16,7 @@ In this project, clicking the "Apply Now" button triggers a modal popup containi
 
 ## Inspiration
 
-[La Pige](./assets/DAY_016_2.gif)
+![La Pige](./assets/DAY_016_2.gif)
 
 ---
 
